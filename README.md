@@ -2,10 +2,10 @@
 
 ## Java
 
-* Liferay Exporter
-* Liferay Permission Hook
+* Liferay Exporter (https://github.com/duongthienduc/sample-codes/tree/master/java/liferay-exporter)
+* Liferay Permission Hook (https://github.com/duongthienduc/sample-codes/tree/master/java/liferay-permission-hook)
 
 ## Javascript & NodeJS
 
-* Cache Manager
-* Team Splitting
+* Cache Manager (https://github.com/duongthienduc/sample-codes/tree/master/js/cache-manager)
+* Team Splitting (https://github.com/duongthienduc/sample-codes/tree/master/js/team-splitting)
